@@ -1,0 +1,14 @@
+C:\Users\areddy1\source\repos\FactorialLab\FactorialLab\bin\Debug\netcoreapp3.1\FactorialLab.exe
+C:\Users\areddy1\source\repos\FactorialLab\FactorialLab\bin\Debug\netcoreapp3.1\FactorialLab.deps.json
+C:\Users\areddy1\source\repos\FactorialLab\FactorialLab\bin\Debug\netcoreapp3.1\FactorialLab.runtimeconfig.json
+C:\Users\areddy1\source\repos\FactorialLab\FactorialLab\bin\Debug\netcoreapp3.1\FactorialLab.runtimeconfig.dev.json
+C:\Users\areddy1\source\repos\FactorialLab\FactorialLab\bin\Debug\netcoreapp3.1\FactorialLab.dll
+C:\Users\areddy1\source\repos\FactorialLab\FactorialLab\bin\Debug\netcoreapp3.1\FactorialLab.pdb
+C:\Users\areddy1\source\repos\FactorialLab\FactorialLab\obj\Debug\netcoreapp3.1\FactorialLab.csproj.AssemblyReference.cache
+C:\Users\areddy1\source\repos\FactorialLab\FactorialLab\obj\Debug\netcoreapp3.1\FactorialLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\areddy1\source\repos\FactorialLab\FactorialLab\obj\Debug\netcoreapp3.1\FactorialLab.AssemblyInfoInputs.cache
+C:\Users\areddy1\source\repos\FactorialLab\FactorialLab\obj\Debug\netcoreapp3.1\FactorialLab.AssemblyInfo.cs
+C:\Users\areddy1\source\repos\FactorialLab\FactorialLab\obj\Debug\netcoreapp3.1\FactorialLab.csproj.CoreCompileInputs.cache
+C:\Users\areddy1\source\repos\FactorialLab\FactorialLab\obj\Debug\netcoreapp3.1\FactorialLab.dll
+C:\Users\areddy1\source\repos\FactorialLab\FactorialLab\obj\Debug\netcoreapp3.1\FactorialLab.pdb
+C:\Users\areddy1\source\repos\FactorialLab\FactorialLab\obj\Debug\netcoreapp3.1\FactorialLab.genruntimeconfig.cache
